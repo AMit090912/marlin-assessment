@@ -55,7 +55,3 @@ Update the request handling logic so the system checks whether readonly mode is 
 Tests should be added for both readonly and non-readonly behavior. DELETE and PATCH requests should fail when readonly mode is enabled and work normally when it is disabled. Existing GET requests and browsing functionality should continue working properly after the update.
 
 The documentation and changelog should also be updated so users can understand the new readonly setting and how to disable it if they still want editing access through the API.
-
----
-
-*I declare that all written content in this assessment is my own work, created without the use of AI language models or automated writing tools. All technical analysis and documentation reflects my personal understanding and has been written in my own words.*
