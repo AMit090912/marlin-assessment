@@ -17,5 +17,3 @@ After reviewing all the repositories, I found that aiokafka, archivematica, beet
 Out of all the repositories, beets was the easiest for me to understand because its purpose is simple and practical. It mainly focuses on managing and organizing music collections. MetaGPT was more complex because it uses multiple AI agents that communicate with each other. aiokafka is mainly related to async communication using Kafka, while archivematica is focused on digital preservation systems used by libraries and archives.
 
 ---
-
-*I declare that all written content in this assessment is my own work, created without the use of AI language models or automated writing tools. All technical analysis and documentation reflects my personal understanding and has been written in my own words.*
