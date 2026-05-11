@@ -58,7 +58,3 @@ Additional improvements were made for missing playlist files, path handling, and
 ### Potential Impact
 
 This PR mainly affects users of the beets playlist plugin. It adds a new and easier way to search tracks using playlist files, especially for users managing large music collections. The update also improves path handling and configuration flexibility across different systems, including Windows.
-
----
-
-*I declare that all written content in this assessment is my own work, created without the use of AI language models or automated writing tools. All technical analysis and documentation reflects my personal understanding and has been written in my own words.*
