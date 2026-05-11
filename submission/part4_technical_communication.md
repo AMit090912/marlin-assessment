@@ -9,7 +9,3 @@ I also felt comfortable choosing this PR because I already have some experience 
 One challenge I would expect during implementation is making sure the readonly value is properly loaded from the config file. This was actually an issue noticed during the review process of the PR itself. Another challenge would be making sure normal GET requests still work correctly after blocking DELETE and PATCH operations.
 
 To handle these challenges, I would test the API in both readonly and non-readonly modes and check how each request behaves. I would also add tests for missing or invalid config values to make sure the plugin does not crash. Overall, I selected this PR because the functionality was practical, the code changes were understandable, and it matched my current technical understanding better than some of the more advanced PRs.
-
----
-
-*I declare that all written content in this assessment is my own work, created without the use of AI language models or automated writing tools. All technical analysis and documentation reflects my personal understanding and has been written in my own words.*
